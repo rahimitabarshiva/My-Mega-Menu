@@ -2,7 +2,7 @@
 This is a simple mega menu.
 
 
-![final view](https://github.com/user-attachments/assets/0e2275e9-0814-4b03-87ca-bb3ad9d5cf2e)
+![final view (ok )](https://github.com/user-attachments/assets/b92b24ef-32fa-460a-861d-7cdb1657776f)
 
 
 
